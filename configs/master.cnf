@@ -1,0 +1,5 @@
+[mysqld]
+bind-address = 0.0.0.0
+server_id = 1
+log_bin = /var/log/mysql/mariadb-bin
+binlog_format = mixed
