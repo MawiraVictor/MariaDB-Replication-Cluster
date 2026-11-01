@@ -29,7 +29,7 @@ MariaDB-Replication-Cluster/
 │   ├── change-master.sql
 │   └── master-dump.sh
 ├── README.md
-└── LICENSE (if present)
+└── LICENSE
 ```
 
 ## Configuration Files
