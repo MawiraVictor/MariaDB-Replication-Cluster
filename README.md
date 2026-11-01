@@ -184,4 +184,4 @@ mysql -h 127.0.0.1 -P 3307 -u root -p
 
 ## License
 
-This project is intended for educational and lab-based use. If a LICENSE file is added later, it should be reviewed and applied accordingly.
+MIT 
